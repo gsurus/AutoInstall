@@ -1,0 +1,15 @@
+E:\Visual Studio 2017\Projects\AutoInstall\AutoInstall\bin\Debug\AutoInstall.exe.config
+E:\Visual Studio 2017\Projects\AutoInstall\AutoInstall\bin\Debug\AutoInstall.exe
+E:\Visual Studio 2017\Projects\AutoInstall\AutoInstall\bin\Debug\AutoInstall.pdb
+E:\Visual Studio 2017\Projects\AutoInstall\AutoInstall\bin\Debug\System.Management.Automation.dll
+E:\Visual Studio 2017\Projects\AutoInstall\AutoInstall\bin\Debug\Microsoft.Management.Infrastructure.dll
+E:\Visual Studio 2017\Projects\AutoInstall\AutoInstall\bin\Debug\System.Management.Automation.xml
+E:\Visual Studio 2017\Projects\AutoInstall\AutoInstall\obj\Debug\AutoInstall.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2017\Projects\AutoInstall\AutoInstall\obj\Debug\AutoInstall.csproj.CopyComplete
+E:\Visual Studio 2017\Projects\AutoInstall\AutoInstall\obj\Debug\AutoInstall.exe
+E:\Visual Studio 2017\Projects\AutoInstall\AutoInstall\obj\Debug\AutoInstall.pdb
+E:\Visual Studio 2017\Projects\AutoInstall\AutoInstall\bin\Debug\AutoInstall.exe.manifest
+E:\Visual Studio 2017\Projects\AutoInstall\AutoInstall\bin\Debug\AutoInstall.application
+E:\Visual Studio 2017\Projects\AutoInstall\AutoInstall\obj\Debug\AutoInstall.exe.manifest
+E:\Visual Studio 2017\Projects\AutoInstall\AutoInstall\obj\Debug\AutoInstall.application
+E:\Visual Studio 2017\Projects\AutoInstall\AutoInstall\obj\Debug\AutoInstall.csprojAssemblyReference.cache
